@@ -2,7 +2,7 @@
 Projeto criado durante o treinamento DevOps #VemSerTech em parceria com Potência Tech do iFood. 
 A partir do software Cisco Packet Tracer vamos simular duas redes de computadores diferentes que se comunicam via ICMP (Internet Control Message Protocol).
 
-- **Equipamentos:** 1 Router 1841 e 3 Switches 2960
+- **Equipamentos:** 1 Router 1841, 3 Switches 2960, 8 Estações e 3 Servidores.
 
 **1. Rede A:**
    - Rede 192.168.0.0/24
